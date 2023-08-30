@@ -12,7 +12,6 @@
             <x-backend.layouts.partial.page_header/>
             <div class="content">
                 {{ $slot }}
-
             </div>
             <x-backend.layouts.partial.footer/>
         </div>
